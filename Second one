@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>lions</title>
+    </head>
+
+    <body>
+        <h1>lions</h1>
+
+        <img alt="picture of lion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cxiaID4DZUUkAtD89emejaFupePH6Nr_EtrNarjcQQ&s=10">
+
+        <H2>Facts about lion-what they mainly eat</H2>
+        <ul>
+         <li>Zebras</li>   
+         <li>buffaloes</li>
+         <li>antelopes</li>
+        </ul>
+
+        <h2>types of lions</h2>
+        <ol>
+         <li>Barbary Lion</li>
+         <li>Cape Lion</li>
+         <li>Congo Lion</li>
+        </ol>
+
+          <a href="https://en.wikipedia.org/wiki/Lion">Information about lions</a>
+
+    </body>
+
+<html>
